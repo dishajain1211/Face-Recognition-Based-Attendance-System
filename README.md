@@ -46,4 +46,4 @@ Before running the app, make sure you have updated the personGroupId in testing 
 5.	You can also browse and upload the image for identification.
 6.	Exit the application.
  
-
+# Note: Check Face Recognition WPF Application.pdf for description with images. 
